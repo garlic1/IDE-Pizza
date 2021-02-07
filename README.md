@@ -1,4 +1,4 @@
 # IDE Pizza
- teste
-teste 2
-Tenta aceitar esse pull request
+Site desenvolvido para o processo seletivo da IDE.
+
+https://garlic1.github.io/IDE-Pizza/
